@@ -1,0 +1,14 @@
+# Features
+-Login
+  -sign In / sign Up
+  -redirect to browser page
+  -Browse (after authentication)
+    -Header
+    -main movie
+      -Trailer in Background
+      -Title and Description
+      -MovieSuggestions
+      -MovieList * N
+-NETFLEX GPT 
+   -search bar 
+   -movie suggestions
