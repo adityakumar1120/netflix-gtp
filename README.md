@@ -1,14 +1,21 @@
+# NETFLEX GPT
+- create vite@latest
+-configured tailwindcss
+-Header
+-Login Form
 # Features
--Login
-  -sign In / sign Up
-  -redirect to browser page
-  -Browse (after authentication)
-    -Header
-    -main movie
-      -Trailer in Background
-      -Title and Description
-      -MovieSuggestions
-      -MovieList * N
--NETFLEX GPT 
-   -search bar 
-   -movie suggestions
+## Login
+- Sign In / Sign Up
+- Redirect to Browse page
+
+## Browse (after authentication)
+- Header
+- Main Movie
+  - Trailer in Background
+  - Title and Description
+- Movie Suggestions
+- Movie List × N
+
+## NETFLEX GPT
+- Search bar
+- Movie suggestions
