@@ -1,8 +1,18 @@
 # NETFLEX GPT
 - create vite@latest
--configured tailwindcss
--Header
--Login Form
+- configured tailwindcss
+- routing 
+- Header
+- Login Form
+- form validation
+- useRef Hook
+- firebase setup
+- deploying our app to production
+- create signUp user account
+- create signIn user account
+- created Redux store with userSlice
+- Implemented sign out
+- Updated profile of user
 # Features
 ## Login
 - Sign In / Sign Up
